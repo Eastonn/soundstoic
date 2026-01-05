@@ -1,0 +1,17 @@
+# Rust
+/target/
+**/*.rs.bk
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+run.log
+
+# Editor
+.vscode/
+.idea/
+
+# Build artifacts
+*.dSYM/
