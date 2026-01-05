@@ -2,6 +2,10 @@
 name = "soundstoic"
 version = "0.1.0"
 edition = "2021"
+description = "macOS menu bar agent that locks the default input device using Core Audio HAL listeners"
+license = "MIT"
+repository = "https://github.com/Eastonn/soundstoic"
+readme = "README.md"
 
 [dependencies]
 objc2 = "0.6"

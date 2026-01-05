@@ -9,6 +9,9 @@
 *.log
 run.log
 
+# Sensitive notes
+info.txt
+
 # Editor
 .vscode/
 .idea/
